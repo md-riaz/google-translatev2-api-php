@@ -4,7 +4,7 @@ This project abstract the google translate api versio 2.0 in PHP.
 
 ## Installation
 
-Use composer to install the lib
+Use raw php to install the lib
 
 ```
 require_once 'src/Client.php';
